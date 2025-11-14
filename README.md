@@ -49,7 +49,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn tensorflow
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone (https://github.com/Alidon256/Rainfall-Prediction-in-Ugand.git)
     cd rainfall-prediction
     ```
 2.  **Open the Jupyter/Colab Notebook**: The entire analysis and model implementation are contained within a single Jupyter/Colab notebook.
