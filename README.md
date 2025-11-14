@@ -6,7 +6,7 @@ This project focuses on predicting rainfall amounts using various machine learni
 
 ## Dataset
 
-The project utilizes a historical rainfall dataset (e.g., Ugandan rainfall data) that includes various meteorological features and corresponding rainfall measurements over time. The dataset undergoes thorough cleaning, feature engineering (e.g., extracting year, month, dekad from dates), and scaling to prepare it for model training.
+The project utilizes a historical rainfall dataset [Dataset](https://data.humdata.org/dataset/geo-rainfall-subnational) that includes various meteorological features and corresponding rainfall measurements over time. The dataset undergoes thorough cleaning, feature engineering (e.g., extracting year, month, dekad from dates), and scaling to prepare it for model training.
 
 ## Methodology
 
